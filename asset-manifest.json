@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.88491957.chunk.css",
-    "main.js": "/static/js/main.8349fd4d.chunk.js",
-    "main.js.map": "/static/js/main.8349fd4d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.402e6cd7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.402e6cd7.js.map",
-    "static/js/2.0b8d67dc.chunk.js": "/static/js/2.0b8d67dc.chunk.js",
-    "static/js/2.0b8d67dc.chunk.js.map": "/static/js/2.0b8d67dc.chunk.js.map",
+    "main.css": "/static/css/main.d9f30de9.chunk.css",
+    "main.js": "/static/js/main.886218bb.chunk.js",
+    "main.js.map": "/static/js/main.886218bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d1fe554.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d1fe554.js.map",
+    "static/js/2.8ed66691.chunk.js": "/static/js/2.8ed66691.chunk.js",
+    "static/js/2.8ed66691.chunk.js.map": "/static/js/2.8ed66691.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5b1793c2787811a6b9187c909633679e.js": "/precache-manifest.5b1793c2787811a6b9187c909633679e.js",
+    "precache-manifest.b6ca4db824af1fe22901d1f043eb4f99.js": "/precache-manifest.b6ca4db824af1fe22901d1f043eb4f99.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.88491957.chunk.css.map": "/static/css/main.88491957.chunk.css.map",
+    "static/css/main.d9f30de9.chunk.css.map": "/static/css/main.d9f30de9.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/angular_core.png": "/static/media/angular_core.953f97d3.png",
@@ -50,12 +50,13 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/virtualupon.png": "/static/media/virtualupon.7484277a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.402e6cd7.js",
-    "static/js/2.0b8d67dc.chunk.js",
-    "static/css/main.88491957.chunk.css",
-    "static/js/main.8349fd4d.chunk.js"
+    "static/js/runtime-main.2d1fe554.js",
+    "static/js/2.8ed66691.chunk.js",
+    "static/css/main.d9f30de9.chunk.css",
+    "static/js/main.886218bb.chunk.js"
   ]
 }
