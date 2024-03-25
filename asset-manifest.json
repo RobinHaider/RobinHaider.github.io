@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d9f30de9.chunk.css",
-    "main.js": "/static/js/main.144d2d11.chunk.js",
-    "main.js.map": "/static/js/main.144d2d11.chunk.js.map",
+    "main.js": "/static/js/main.bbc557b2.chunk.js",
+    "main.js.map": "/static/js/main.bbc557b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2d1fe554.js",
     "runtime-main.js.map": "/static/js/runtime-main.2d1fe554.js.map",
-    "static/js/2.c0e6c17e.chunk.js": "/static/js/2.c0e6c17e.chunk.js",
-    "static/js/2.c0e6c17e.chunk.js.map": "/static/js/2.c0e6c17e.chunk.js.map",
+    "static/js/2.827c2806.chunk.js": "/static/js/2.827c2806.chunk.js",
+    "static/js/2.827c2806.chunk.js.map": "/static/js/2.827c2806.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.de23ad4d280b2dc5b978511e94a55ad4.js": "/precache-manifest.de23ad4d280b2dc5b978511e94a55ad4.js",
+    "precache-manifest.de48f7cb47d90bfb8eae984e0ebeb3c9.js": "/precache-manifest.de48f7cb47d90bfb8eae984e0ebeb3c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d9f30de9.chunk.css.map": "/static/css/main.d9f30de9.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -50,6 +50,7 @@
     "static/media/pwa.png": "/static/media/pwa.bd5f4148.png",
     "static/media/sakib.jpeg": "/static/media/sakib.3ce5260c.jpeg",
     "static/media/shahril.jpeg": "/static/media/shahril.0fa56a6f.jpeg",
+    "static/media/smart-consult-logo.svg": "/static/media/smart-consult-logo.441f9c4c.svg",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
@@ -58,8 +59,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2d1fe554.js",
-    "static/js/2.c0e6c17e.chunk.js",
+    "static/js/2.827c2806.chunk.js",
     "static/css/main.d9f30de9.chunk.css",
-    "static/js/main.144d2d11.chunk.js"
+    "static/js/main.bbc557b2.chunk.js"
   ]
 }
